@@ -1,0 +1,69 @@
+
+div.App{
+  font-size: x-large;
+  font:bolder;
+}
+
+h1{
+  text-align: center;
+}
+
+label.email{
+  display:inline-block;
+  margin-right:38px;
+  width: 930px;
+} 
+label.name{
+  display:inline-block;
+  width: 930px;
+}
+label.city{
+  display:inline-block;
+  margin-right:30px;
+  width: 600px;
+}
+label.Province{
+  display:inline-block;
+  margin-right:30px;
+  width: 620px;
+}
+label.PostalCode{
+  display:inline-block;
+  width: 600px;
+}
+input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+p{
+  text-align: center;
+}
+
+p.agree{
+  text-align: center;
+
+}
+button {
+  padding: 10px;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+  position: absolute;
+  left: 48%;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.submitted-info {
+  font-size: x-large;
+  margin-top: 300px;
+}
+h2{
+  text-align: center;
+}
